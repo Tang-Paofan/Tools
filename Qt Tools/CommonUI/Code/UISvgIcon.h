@@ -1,6 +1,8 @@
 #ifndef __UISVGICON_H__
 #define __UISVGICON_H__
 
+#include <memory>
+
 class QString;
 class QPixmap;
 
