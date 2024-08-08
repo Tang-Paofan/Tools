@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-08-08 17:35:25",
+  "files": {
+    "D:\\Liang\\intraoral-sub\\Intraoral\\Code\\up3d-productionprocesstooling\\ExamplePlugin\\ExamplePlugin.vcxproj": {
+      "before": "7VnfT9tIEO7zSfcP3JNlcQp5IIZAk/ZwXLUORVFDiAg/Xk6qNs4k2db2WrtrGq69//3G9nodh7gl4g56CB6QvDszO/48883MZvHbixf2m0XgG9fABWVhx9xr7JoGhB6b0HDWMWM53XllvnF+/cUecvYJPGl0YUpiX54TPgMpOua7mPoT00ArIT7NpYz+sCzhzSEgohFQjzPBprLhscCawDX4LAJuBWKcqFnN3d19E60bht2TEBxzFkdGn4zB75jqQJeFUzqLOZHooMiEUXzdrtELPT+eQMfswjiefbui4X4z10CdkiknlbGt8mLiSvJnD30ip4wHTmrEtvRzJoELGR7r1H/g3Bn4QAT8wD0l9RgOZugtWgf3xQ5N/CfIfc+1O+O2oXO2pSM0C1gMAAxleVMK2mOfjYlfhOmlq+LkMsswZ6/d2LWtW8sqqj7AzRfGJ1nQJZq2lS8pCWXuOKYT5yu8fNU6INDc2ZsSb+egPZ7uvG62JzvtVnvabrUOXo6br//WoZrqKDNnjMkBCUBExAPnaEGCyIehH89oaFvlTaWBeTBhX0SW93k26LfaTd7quyKJmdSVAjSV+EHEuDTUi3XMre1LV7HLkMh5/c8TTSJuFDUU/zQihF+YhrXuY2BSTmjCFx2ztrVdStH6t63t3Pt6rdOpLVFFzcy5p6SSZ0GZP85vInDeRpFPvZSaVhI13VbQXQhIT+nTMSecgnAkj8G2bq8rhdzBc8Z8AdK53jvYLxIpX1XC7pxw4kngI5S8CClyN9ourVZij6AXn8PYBLYSiT0ccFNMrn8Nuas5w6DnbMZJcBpJGtC/0k+pPk/l9qMCr8n54UB/OtGKnP9wsD2VWO1tRtBlYs6USzXyaCEhTNpNJCyJbaaqllhg04NS2eXSUFIeIdvBJKPku2nkHDeaAzas5kYsVyoOqU9YxG7jgUTOk6LZpXy1XC1Vm0aMYnndWuJaWFAhxTZWqo3t1Oq6ZPWZR3ysR10iSV4/dHm8E7T3AWqlHDxDpUeWioYjZaJnmKphyiPq6QGV51mJ15LUPyHJtKyTNpk3sNulYdrKZtJLtLFZZ5uHmuu7LIioD2oB+eyK8BBpuJ9M5076H5vN0mLW8KDoqNt35+B9Vh2SftQCQw7I/x4IwXjhu3CueoP95uHH7tG7i+PDj+7pYHTaPzr8fbtCvp5MCust6aOSHh0HdBJ6cIItr3JpdVX1atbqe9t9Gn4uMBjF49GNQMAdNCCwLbStYkkfeQwh4EVE1s33suOTMUOdXbmdO6HPzIbJAqDlmnfPr57nTXpvUStml3t99/dx6CUvmkZH8hYYL+ql125pxHqh5BSLvZeL5bPPmg2tpMMqazz1oxaoio0sygb/8yg7CsnYB/f0pPv2/D3zk5s4hfW6HQ2KmmDgDKbA8QpPj5lrNrRSZchm0FduZwZs6yEiemnieWQWe+YvxZkPwF+lur/K3ptVrZx7fnL2euatn4+3isKMIef66geG4oeG0s1pY657t9XL4vLdcWpL9WFVtrwouru1AQuhMESxM2l8EiysNrDZSC+zH3u0uaVBPb8x1UO9urpdP6Hru2jnHw==",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-08-08 17:35:25</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Liang\intraoral-sub\Intraoral\Code\up3d-productionprocesstooling\ExamplePlugin\ExamplePlugin.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--t09uRCj5YD07QjTDcLyruhdi466nLJ70meddKnF12rA=-->

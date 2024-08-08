@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Icon/CamputerInfoIcon.svg</file>
+        <file>Resource/Icon/CloseBtn.svg</file>
+        <file>Resource/Icon/DeviceInfoIcon.svg</file>
+        <file>Resource/Icon/EmptyItemIcon.svg</file>
+        <file>Resource/Icon/CorrectState.svg</file>
+        <file>Resource/Icon/ErrorState.svg</file>
+        <file>Resource/Icon/NomalState.svg</file>
+        <file>Resource/Icon/WarningState.svg</file>
+    </qresource>
+</RCC>

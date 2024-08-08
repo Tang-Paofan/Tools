@@ -1,0 +1,7 @@
+{
+  "Name": "Example", // 节点
+  "Vendor": "UP3D",
+  "Copyright": "Copyright (C) 2023 UP3D",
+  "Category": "标定工装", // 父节点
+  "Description": [ "This plugin is xxx info plugin." ]
+}
