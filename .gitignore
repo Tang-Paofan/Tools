@@ -31,7 +31,5 @@
 *.out
 *.app
 
-/*/.vs
-/*/x64
-/*/*/x64
-/*/*/*.vcxproj.user
+*.vs
+*.vcxproj.user
