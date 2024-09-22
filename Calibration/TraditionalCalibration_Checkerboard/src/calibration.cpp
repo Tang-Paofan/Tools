@@ -1,7 +1,10 @@
+// 单目标定
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <cmath>
 using namespace std;
 
 int main(int argc, char **argv)
@@ -53,9 +56,9 @@ int main(int argc, char **argv)
             // 在图像上绘制棋盘格角点
             cv::drawChessboardCorners(image, boardSize, corners, found);
             // 显示处理后的图像
-            cv::imshow("image", image);
+            // cv::imshow("image", image);
             // 等待用户按键操作
-            cv::waitKey(0);
+            // cv::waitKey(0);
 
             // 为每个 3D 点生成棋盘格角点的 vector
             vector<cv::Point3f> objectCorners;
@@ -82,7 +85,25 @@ int main(int argc, char **argv)
     // objectPoints 和 imagePoints 是之前存储的 3D 和 2D 角点
     // image.size() 是图像的尺寸
     // rvecs 和 tvecs 存储每个图像的旋转和平移向量
-    cv::calibrateCamera(objectPoints, imagePoints, image.size(), cameraMatrix, distCoeffs, rvecs, tvecs);
+    // 单目相机标定
+    auto ret = cv::calibrateCamera(objectPoints, imagePoints, image.size(), cameraMatrix, distCoeffs, rvecs, tvecs);
+
+    cout << "camera re-projection error=" << ret << endl;
+
+    auto mse = 0.0;
+    for (int i = 0, sz = rvecs.size(); i < sz; i++)
+    {
+        std::vector<cv::Point2f> imgPoint;
+        cv::projectPoints(objectPoints[i], rvecs[i], tvecs[i], cameraMatrix, distCoeffs, imgPoint);
+        auto error = cv::norm(imagePoints[i], imgPoint, cv::NORM_L2);
+        mse += error * error;
+    }
+
+    mse = sqrt(mse / (imagePoints.size() * boardHeight * boardWidth));
+
+    cout
+        << "mse=" << mse << endl;
+
     // 输出相机内参矩阵
     cout << "camera matrix:" << endl
          << cameraMatrix << endl;
