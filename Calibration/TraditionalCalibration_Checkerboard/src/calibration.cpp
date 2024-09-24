@@ -86,6 +86,7 @@ int main(int argc, char **argv)
     // image.size() 是图像的尺寸
     // rvecs 和 tvecs 存储每个图像的旋转和平移向量
     // 单目相机标定
+    // rmse
     auto ret = cv::calibrateCamera(objectPoints, imagePoints, image.size(), cameraMatrix, distCoeffs, rvecs, tvecs);
 
     cout << "camera re-projection error=" << ret << endl;
@@ -99,10 +100,10 @@ int main(int argc, char **argv)
         mse += error * error;
     }
 
+    // mse
     mse = sqrt(mse / (imagePoints.size() * boardHeight * boardWidth));
 
-    cout
-        << "mse=" << mse << endl;
+    cout << "mse=" << mse << endl;
 
     // 输出相机内参矩阵
     cout << "camera matrix:" << endl
