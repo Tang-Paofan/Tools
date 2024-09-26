@@ -1,0 +1,1 @@
+agestore \\192.168.1.145\UPSymbolServer -days=30 -s
